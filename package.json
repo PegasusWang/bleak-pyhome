@@ -1,8 +1,8 @@
 {
-  "name": "bleak",
+  "name": "bleak-pyhome",
   "version": "1.0.0",
   "description": "Ghost Theme",
-  "author": "Peter Amende",
+  "author": "Peter Amende, Pegasus Wang",
   "repository": {
     "type": "git",
     "url": "git://github.com/zutrinken/bleak.git"
